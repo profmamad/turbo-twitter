@@ -17,3 +17,6 @@ To run project simply install Golang and clone the project then
   $ cd turbo-twitter
   $ go run main.go
 ```
+
+## Special thanks
+To Mike https://discord.com/users/mike#4770/
