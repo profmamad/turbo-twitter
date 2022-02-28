@@ -11,7 +11,7 @@ The way it works is it constantly checks for usernames to become open and tries 
 It is super fast and can have thousands of threads, for the performance part depending on your ping + CPU you can have 200k+ connections 
 at the same time!
 
-##Running
+## Running
 To run project simply install Golang and clone the project then
 ```bash
   $ cd turbo-twitter
